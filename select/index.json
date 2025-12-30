@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "お子さまプレート",
+  "base_artist": "go!go!vanillas",
+  "createdAt": "2025-12-30T07:53:45.465060Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "お子さまプレート",
+      "artist": "go!go!vanillas",
+      "has_synced": false,
+      "path": "select/pl_01_お子さまプレート_go!go!vanillas.txt"
+    }
+  ]
+}
